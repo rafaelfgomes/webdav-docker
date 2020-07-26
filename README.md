@@ -18,11 +18,12 @@ Make sure you have docker and docker compose installed and configured. After tha
 
 ```
 docker-compose up -d
-
+```
 Next, you can check if the container is up with the command:
 
 ```
 docker ps
+```
 
 If everything is ok, you should see this result:
 
